@@ -2,7 +2,7 @@ trigger:
   - main
 
 pool:
-  name: '321' # Your self-hosted agent pool name
+  name: 'bis' # Your self-hosted agent pool name
 
 steps:
   # Step 1: Checkout the Code from GitHub
